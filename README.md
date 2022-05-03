@@ -1,2 +1,2 @@
-# LagosHousePricePredictior
-An application that predicts house rent in Lagos, Nigeria 
+# LagosHouseRentEstimator
+An application that predicts house rent in Lagos, Nigeria.
